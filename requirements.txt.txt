@@ -1,7 +1,7 @@
 Flask
 numpy==1.16.0
 gunicorn==19.9.0
-Werkzeug==0.15.5
+Werkzeug==2.2.3
 soundfile==0.10.3.post1
 python_speech_features==0.6
 keras==2.2.4
